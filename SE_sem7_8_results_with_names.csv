@@ -1,0 +1,398 @@
+roll_no,name,sgpa,credits,semester
+2K21/SE/111,Martin Leo King,0.0,0,7
+2K21/SE/116,Mohammed Ameen,7.56,18,7
+2K21/SE/122,NAANDET,8.0,22,7
+2K21/SE/162,Sarthak Sarkar,9.31,26,7
+2K21/SE/163,Say sidana,6.92,26,7
+2K21/SE/175,Subham Jha,8.09,22,7
+2K21/SE/177,Supreet Dangol,6.33,18,7
+2K21/SE/197,Yeshi Dorji,8.36,22,7
+2K21/SE/45,Avyav Sharma,9.08,26,7
+2K21/SE/21,AMAN GUPTA,8.92,26,7
+2K21/SE/73,Gopal Gupta,9.15,26,7
+2K21/SE/191,Vidit Tayal,9.46,26,7
+2K21/SE/194,Vishisht Maroria,8.54,26,7
+2K21/SE/166,Shashwat Bindal,8.55,22,7
+2K21/SE/196,Yashvardhan Singh,7.54,26,7
+2K21/SE/142,Praveer Kumar Deo,7.78,18,7
+2K21/SE/148,Ranjana Beshra,8.45,22,7
+2K21/SE/133,Paras Gupta,8.54,26,7
+2K21/SE/78,Harsh,6.44,18,7
+2K21/SE/169,Shubham Ladha,8.27,22,7
+2K21/SE/189,Varun Goyal,8.54,26,7
+2K21/SE/85,Hemang,6.73,22,7
+2K21/SE/31,Ankush Singh,8.27,22,7
+2K21/SE/03,Abhimanyu Dayal,9.23,26,7
+2K21/SE/51,Baladitya Ramanuj,8.31,26,7
+2K21/SE/88,Hriday Bhardwaj,8.69,26,7
+2K21/SE/110,Manas Swarnkar,7.53,30,7
+2K21/SE/55,Chaitanya raj,8.27,30,7
+2K21/SE/187,Utsav Joshi,8.45,22,7
+2K21/SE/171,Siddhi Yadav,8.62,26,7
+2K21/SE/138,Prateek Kumar Tiwari,9.62,26,7
+2K21/SE/05,Abhinav,8.62,26,7
+2K21/SE/06,Abhinav Ashutosh,8.22,18,7
+2K21/SE/108,Kushagra Jarwal,7.36,22,7
+2K21/SE/140,PRATYAKSH KUMAR,6.08,26,7
+2K21/SE/115,Mohammad Shadab,8.69,26,7
+2K21/SE/128,Nikhil Garg,7.55,22,7
+2K21/SE/158,Samar Pratap Singh,6.45,22,7
+2K21/SE/65,Dhruv Kuchhal,8.38,26,7
+2K21/SE/117,mohd vaseem,8.23,26,7
+2K21/SE/92,Jivesh Batra,8.38,26,7
+2K21/SE/160,Sarthak Goyal,8.0,26,7
+2K21/SE/69,Eshvas Jain,9.23,26,7
+2K21/SE/20,Akshit Kadyan,7.36,22,7
+2K21/SE/182,Tejas Gahallot,6.8,30,7
+2K21/SE/52,Bhanu Kaushik,9.09,22,7
+2K21/SE/83,Harshil Nashier,9.0,26,7
+2K21/SE/56,Chintu kumar rai,8.0,26,7
+2K21/SE/58,Devansh Balhara,8.85,26,7
+2K21/SE/102,Krishna,7.69,26,7
+2K21/SE/19,Akshat Saini,7.91,22,7
+2K21/SE/147,Rajat Raichandel,8.36,22,7
+2K21/SE/180,Tanuj Shankar,8.36,22,7
+2K21/SE/72,Geetesh Kumar,7.92,26,7
+2K21/SE/121,Mukul Dass,6.64,22,7
+2K21/SE/155,Saksham Gautam,6.8,30,7
+2K21/SE/61,DHEERAJ TOKAS,8.64,22,7
+2K21/SE/33,Ansh Rastogi,8.77,26,7
+2K21/SE/190,Vashu Saini,9.46,26,7
+2K21/SE/11,Aditya L. Krishna,8.0,26,7
+2K21/SE/32,Anmol Geetesh,9.08,26,7
+2K21/SE/193,Vishal,8.69,26,7
+2K21/SE/71,Gaurish Passi,8.45,22,7
+2K21/SE/48,Ayush Kumar,9.0,22,7
+2K21/SE/151,Rohit Kumar,8.85,26,7
+2K21/SE/08,ADITYA GOYAL,8.91,22,7
+2K21/SE/114,Mohammad Momin,9.31,26,7
+2K21/SE/12,Aditya Prajapati,8.45,22,7
+2K21/SE/164,Shashank Anand,7.62,26,7
+2K21/SE/37,Arin Singhal,8.85,26,7
+2K21/SE/02,Abhay Dewedi,8.77,26,7
+2K21/SE/199,ZAID JAVAID,8.91,22,7
+2K21/SE/131,PALAK KUMARI,9.31,26,7
+2K21/SE/68,Divyanshu,8.82,22,7
+2K21/SE/38,Aryaman Jain,9.55,22,7
+2K21/SE/185,Utkarsh Chauhan,9.0,22,7
+2K21/SE/54,Bharat Mishra,8.44,18,7
+2K21/SE/168,Shobhon Das,7.38,26,7
+2K21/SE/57,Chirag Goel,8.23,26,7
+2K21/SE/49,Ayush Martolia,3.15,14,7
+2K21/SE/70,Gaurav Raj,7.55,22,7
+2K21/SE/40,Aryan raj,9.62,26,7
+2K21/SE/125,Navneet kumar bind,8.31,26,7
+2K21/SE/186,Utkarsh Sharma,8.45,22,7
+2K21/SE/39,ARYAN KAPUR,5.73,22,7
+2K21/SE/63,Dhruv Jain,9.0,26,7
+2K21/SE/173,Sourabh kumar,8.14,14,7
+2K21/SE/04,abhinandan sharma,8.46,26,7
+2K21/SE/170,Shubham Rai,8.67,18,7
+2K21/SE/30,Ankit kumar sah,5.73,18,7
+2K21/SE/16,Akash,6.82,22,7
+2K21/SE/07,ABHINAV CHAITANYA,9.38,26,7
+2K21/SE/149,Rishi Prakash,8.0,26,7
+2K21/SE/91,Jai Kumar,8.69,26,7
+2K21/SE/127,Neeraj Joshi,7.23,22,7
+2K21/SE/152,ROHIT KUMAR,8.0,18,7
+2K21/SE/46,Ayush Chaudhary,7.18,22,7
+2K21/SE/141,Pratyansh Vaibhav,8.64,22,7
+2K21/SE/34,,0.0,0,7
+2K21/SE/178,Suyash Tyagi,9.08,26,7
+2K21/SE/195,Yash Gupta,9.08,26,7
+2K21/SE/198,Yuv Garg,9.15,26,7
+2K21/SE/90,Ishan Bhatia,8.38,26,7
+2K21/SE/179,Tanishka,7.77,26,7
+2K20/SE/145,,6.73,20,7
+2K21/SE/01,Abdul Basit,9.0,26,7
+2K21/SE/42,ATUL RANJAN,8.38,26,7
+2K21/SE/44,AVANI UPRETI,8.36,22,7
+2K21/SE/97,Katyayani Sharma,7.44,18,7
+2K21/SE/135,Peehu Singh,8.56,18,7
+2K21/SE/136,Pranav Kadhiroo,9.38,26,7
+2K21/SE/181,Tasmiya,7.11,18,7
+2K21/SE/174,Sparsh Bhatia,6.38,26,7
+2K21/SE/153,Sahil,7.8,30,7
+2K21/SE/84,Harshit Garg,8.82,22,7
+2K21/SE/107,Kushagra Arora,8.77,26,7
+2K21/SE/104,Kritik Aggarwal,9.15,26,7
+2K21/SE/18,Akshat Gupta,8.27,22,7
+2K21/SE/79,Harsh,8.36,22,7
+2K21/SE/80,Harsh Kumar,7.55,22,7
+2K21/SE/81,Harsh Nagar,7.82,22,7
+2K21/SE/120,Mukul Chauhan,9.08,26,7
+2K21/SE/124,NAMAN SINGH,9.64,22,7
+2K21/SE/184,Tushar Sharu,8.69,26,7
+2K21/SE/105,Kumar Shaswat,8.55,22,7
+2K21/SE/14,Aditya Shrinath Shaw,7.54,26,7
+2K21/SE/109,Lokesh kumar,9.08,26,7
+2K21/SE/15,ADITYA SINGHAL,8.92,26,7
+2K21/SE/87,HIMANSHU,5.55,22,7
+2K21/SE/77,Harsh,8.77,26,7
+2K21/SE/106,kushagara kumar,8.18,22,7
+2K21/SE/43,Ausaf Aslam,9.31,26,7
+2K21/SE/13,Aditya Shankar Jha,8.77,26,7
+2K21/SE/146,Rahul Kumar,6.18,22,7
+2K21/SE/144,Prerna,8.82,22,7
+2K21/SE/99,Kavyesh Agarawal,7.92,26,7
+2K21/SE/74,Govind Jha,7.69,26,7
+2K21/SE/22,AMAN JHA,6.45,22,7
+2K21/SE/27,Amdurkar Sanket,8.91,22,7
+2K21/SE/150,Rithvik Kumar,7.08,26,7
+2K21/SE/36,Apara Maity,9.55,22,7
+2K21/SE/28,Amit Kumar,7.92,26,7
+2K21/SE/35,Anshul,9.08,26,7
+2K21/SE/183,Tushar Kumar,6.73,22,7
+2K21/SE/143,Preet Kumar,7.87,30,7
+2K21/SE/192,Vikas Gupta,9.27,22,7
+2K21/SE/161,SARTHAK Manocha,7.46,26,7
+2K21/SE/93,Kabir Batra,8.91,22,7
+2K21/SE/67,Dilwinder Singh,8.27,22,7
+2K21/SE/132,param,7.55,22,7
+2K21/SE/29,Amriti Gupta,9.38,26,7
+2K21/SE/76,Harmandeep Singh,9.82,22,7
+2K21/SE/95,Karunesh Kumar,7.91,22,7
+2K21/SE/47,Ayush Jaiswal,7.54,26,7
+2K21/SE/100,Krish Nimje,8.82,22,7
+2K21/SE/119,Mohit Prabhav Gupta,9.0,22,7
+2K21/SE/130,OLIVER EKKA,6.78,18,7
+2K21/SE/94,Kartik Tomar,7.91,22,7
+2K21/SE/129,Nikhil Gupta,8.73,22,7
+2K21/SE/09,Aditya Garg,6.78,18,7
+2K21/SE/62,Dhruv,9.0,26,7
+2K21/SE/137,Prashant Dhaka,7.27,22,7
+2K21/SE/75,Gurtej Singh,7.93,30,7
+2K21/SE/167,SHIVAM KUMAR,9.0,22,7
+2K21/SE/50,Ayush singhal,7.55,22,7
+2K21/SE/139,Pratham Bansal,8.85,26,7
+2K21/SE/101,Krishan Kumar Jha,8.55,22,7
+2K21/SE/10,ADITYA GUPTA,9.27,22,7
+2K21/SE/134,Parv Malhotra,6.23,22,7
+2K21/SE/156,Saksham Sengar,8.22,18,7
+2K21/SE/24,AMAN MAHOUR,6.0,18,7
+2K21/SE/159,Sanoj,9.09,22,7
+2K21/SE/82,Harsh Santoshi,9.0,22,7
+2K21/SE/25,Aman Taneja,7.82,22,7
+2K21/SE/172,Snehal Kumar,7.69,26,7
+2K21/SE/59,Devashish Mehta,7.23,26,7
+2K21/SE/17,AKASH SONI,8.69,26,7
+2K21/SE/66,Dhruv Malhotra,8.92,26,7
+2K21/SE/64,Dhruv Khokhar,9.82,22,7
+2K21/SE/103,Krispy Tyagi,7.64,18,7
+2K21/SE/60,Dheeman kumar,8.64,22,7
+2K21/SE/145,Priyanshu,7.09,22,7
+2K21/SE/41,Ashish Bhushan,7.23,26,7
+2K21/SE/126,Navneet Kumar,8.22,18,7
+2K21/SE/98,Kaushlendra Pratap,6.85,26,7
+2K21/SE/89,Hrijul Chauhan,8.38,26,7
+2K21/SE/113,mihir katyal,8.15,26,7
+2K21/SE/154,Saksham Dhawan,9.0,22,7
+2K21/SE/188,Vaibhav Arya,9.31,26,7
+2K21/SE/96,Kaseri Abdul,9.54,26,7
+2K21/SE/176,Sudhir kumar,7.09,22,7
+2K21/SE/118,Mohit Khandelwal,4.91,18,7
+2K21/SE/165,Shashwat Aggarwal,8.87,30,7
+2K21/SE/157,SAKSHI MAURYA,8.45,22,7
+2K21/SE/26,Amandeep,9.0,30,7
+2K21/SE/86,Hetti Mewan,6.67,18,7
+2K21/SE/112,Michael Mulugeta,7.0,26,7
+2K18/SE/062,,2.8,4,7
+2K19/SE/050,,0.0,0,8
+2K19/SE/078,,1.5,4,8
+2K21/SE/116,Mohammed Ameen,8.33,24,8
+2K21/SE/122,NAANDET,7.25,16,8
+2K21/SE/03,Abhimanyu Dayal,8.33,12,8
+2K21/SE/10,ADITYA GUPTA,8.67,12,8
+2K21/SE/13,Aditya Shankar Jha,8.67,12,8
+2K21/SE/14,Aditya Shrinath Shaw,8.0,12,8
+2K21/SE/24,AMAN MAHOUR,6.67,12,8
+2K21/SE/27,Amdurkar Sanket,9.33,12,8
+2K21/SE/29,Amriti Gupta,9.33,12,8
+2K21/SE/41,Ashish Bhushan,8.67,12,8
+2K21/SE/43,Ausaf Aslam,9.33,12,8
+2K21/SE/44,AVANI UPRETI,9.33,12,8
+2K21/SE/54,Bharat Mishra,8.0,12,8
+2K21/SE/56,Chintu kumar rai,8.67,12,8
+2K21/SE/58,Devansh Balhara,9.33,12,8
+2K21/SE/64,Dhruv Khokhar,9.33,12,8
+2K21/SE/68,Divyanshu,8.0,12,8
+2K21/SE/71,Gaurish Passi,9.33,12,8
+2K21/SE/75,Gurtej Singh,9.33,12,8
+2K21/SE/76,Harmandeep Singh,9.33,12,8
+2K21/SE/79,Harsh,8.0,12,8
+2K21/SE/80,Harsh Kumar,8.0,12,8
+2K21/SE/81,Harsh Nagar,8.0,12,8
+2K21/SE/82,Harsh Santoshi,9.33,12,8
+2K21/SE/94,Kartik Tomar,7.67,12,8
+2K21/SE/100,Krish Nimje,8.67,12,8
+2K21/SE/102,Krishna,6.67,12,8
+2K21/SE/105,Kumar Shaswat,9.33,12,8
+2K21/SE/106,kushagara kumar,7.0,12,8
+2K21/SE/109,Lokesh kumar,8.67,12,8
+2K21/SE/114,Mohammad Momin,8.67,12,8
+2K21/SE/115,Mohammad Shadab,8.67,12,8
+2K21/SE/117,mohd vaseem,7.0,12,8
+2K21/SE/12,Aditya Prajapati,9.33,12,8
+2K21/SE/120,Mukul Chauhan,8.33,12,8
+2K21/SE/126,Navneet Kumar,8.0,12,8
+2K21/SE/127,Neeraj Joshi,8.67,12,8
+2K21/SE/128,Nikhil Garg,6.67,12,8
+2K21/SE/129,Nikhil Gupta,9.33,12,8
+2K21/SE/132,param,7.33,12,8
+2K21/SE/136,Pranav Kadhiroo,8.0,12,8
+2K21/SE/137,Prashant Dhaka,7.33,12,8
+2K21/SE/139,Pratham Bansal,8.67,12,8
+2K21/SE/140,PRATYAKSH KUMAR,6.67,12,8
+2K21/SE/141,Pratyansh Vaibhav,8.67,12,8
+2K21/SE/142,Praveer Kumar Deo,8.33,12,8
+2K21/SE/145,Priyanshu,7.67,12,8
+2K21/SE/147,Rajat Raichandel,8.67,12,8
+2K21/SE/149,Rishi Prakash,8.0,12,8
+2K21/SE/153,Sahil,8.67,12,8
+2K21/SE/155,Saksham Gautam,8.33,12,8
+2K21/SE/157,SAKSHI MAURYA,8.33,12,8
+2K21/SE/159,Sanoj,8.67,12,8
+2K21/SE/161,SARTHAK Manocha,7.0,12,8
+2K21/SE/162,Sarthak Sarkar,9.33,12,8
+2K21/SE/164,Shashank Anand,9.67,12,8
+2K21/SE/165,Shashwat Aggarwal,8.67,12,8
+2K21/SE/166,Shashwat Bindal,8.0,12,8
+2K21/SE/167,SHIVAM KUMAR,8.0,12,8
+2K21/SE/168,Shobhon Das,8.0,12,8
+2K21/SE/169,Shubham Ladha,7.67,12,8
+2K21/SE/170,Shubham Rai,8.67,12,8
+2K21/SE/171,Siddhi Yadav,7.33,12,8
+2K21/SE/172,Snehal Kumar,8.33,12,8
+2K21/SE/175,Subham Jha,9.0,12,8
+2K21/SE/178,Suyash Tyagi,9.33,12,8
+2K21/SE/18,Akshat Gupta,8.67,12,8
+2K21/SE/180,Tanuj Shankar,7.67,12,8
+2K21/SE/182,Tejas Gahallot,5.67,12,8
+2K21/SE/184,Tushar Sharu,8.33,12,8
+2K21/SE/185,Utkarsh Chauhan,8.0,12,8
+2K21/SE/186,Utkarsh Sharma,8.0,12,8
+2K21/SE/188,Vaibhav Arya,8.67,12,8
+2K21/SE/189,Varun Goyal,9.33,12,8
+2K21/SE/19,Akshat Saini,8.67,12,8
+2K21/SE/190,Vashu Saini,8.67,12,8
+2K21/SE/191,Vidit Tayal,8.33,12,8
+2K21/SE/192,Vikas Gupta,9.33,12,8
+2K21/SE/193,Vishal,8.0,12,8
+2K21/SE/194,Vishisht Maroria,8.67,12,8
+2K21/SE/195,Yash Gupta,9.33,12,8
+2K21/SE/198,Yuv Garg,9.33,12,8
+2K21/SE/199,ZAID JAVAID,9.33,12,8
+2K21/SE/25,Aman Taneja,9.33,12,8
+2K21/SE/30,Ankit kumar sah,7.33,12,8
+2K21/SE/31,Ankush Singh,9.0,12,8
+2K21/SE/38,Aryaman Jain,9.33,12,8
+2K21/SE/47,Ayush Jaiswal,8.67,12,8
+2K21/SE/67,Dilwinder Singh,9.33,12,8
+2K21/SE/70,Gaurav Raj,7.33,12,8
+2K21/SE/84,Harshit Garg,8.0,12,8
+2K21/SE/85,Hemang,8.0,12,8
+2K21/SE/93,Kabir Batra,8.0,12,8
+2K21/SE/22,AMAN JHA,6.4,20,8
+2K21/SE/50,Ayush singhal,8.0,20,8
+2K21/SE/60,Dheeman kumar,8.2,20,8
+2K21/SE/163,Say sidana,8.2,20,8
+2K21/SE/177,Supreet Dangol,7.6,20,8
+2K21/SE/01,Abdul Basit,9.0,8,8
+2K21/SE/02,Abhay Dewedi,8.0,8,8
+2K21/SE/04,abhinandan sharma,8.0,8,8
+2K21/SE/05,Abhinav,7.0,8,8
+2K21/SE/07,ABHINAV CHAITANYA,9.0,8,8
+2K21/SE/15,ADITYA SINGHAL,9.0,8,8
+2K21/SE/17,AKASH SONI,9.0,8,8
+2K21/SE/21,AMAN GUPTA,9.0,8,8
+2K21/SE/26,Amandeep,9.0,8,8
+2K21/SE/28,Amit Kumar,7.0,8,8
+2K21/SE/33,Ansh Rastogi,8.0,8,8
+2K21/SE/35,Anshul,8.0,8,8
+2K21/SE/36,Apara Maity,9.0,8,8
+2K21/SE/37,Arin Singhal,8.0,8,8
+2K21/SE/40,Aryan raj,8.0,8,8
+2K21/SE/42,ATUL RANJAN,9.0,8,8
+2K21/SE/45,Avyav Sharma,7.0,8,8
+2K21/SE/51,Baladitya Ramanuj,8.0,8,8
+2K21/SE/52,Bhanu Kaushik,9.0,8,8
+2K21/SE/57,Chirag Goel,9.0,8,8
+2K21/SE/61,DHEERAJ TOKAS,9.0,8,8
+2K21/SE/62,Dhruv,8.0,8,8
+2K21/SE/63,Dhruv Jain,8.0,8,8
+2K21/SE/65,Dhruv Kuchhal,8.0,8,8
+2K21/SE/66,Dhruv Malhotra,8.0,8,8
+2K21/SE/72,Geetesh Kumar,8.0,8,8
+2K21/SE/73,Gopal Gupta,8.0,8,8
+2K21/SE/74,Govind Jha,7.0,8,8
+2K21/SE/77,Harsh,9.0,8,8
+2K21/SE/83,Harshil Nashier,9.0,8,8
+2K21/SE/88,Hriday Bhardwaj,8.0,8,8
+2K21/SE/89,Hrijul Chauhan,8.0,8,8
+2K21/SE/90,Ishan Bhatia,9.0,8,8
+2K21/SE/91,Jai Kumar,9.0,8,8
+2K21/SE/92,Jivesh Batra,8.0,8,8
+2K21/SE/95,Karunesh Kumar,9.0,8,8
+2K21/SE/96,Kaseri Abdul,9.0,8,8
+2K21/SE/99,Kavyesh Agarawal,7.0,8,8
+2K21/SE/101,Krishan Kumar Jha,8.0,8,8
+2K21/SE/104,Kritik Aggarwal,8.0,8,8
+2K21/SE/107,Kushagra Arora,8.0,8,8
+2K21/SE/108,Kushagra Jarwal,8.0,8,8
+2K21/SE/110,Manas Swarnkar,9.0,8,8
+2K21/SE/113,mihir katyal,7.0,8,8
+2K21/SE/119,Mohit Prabhav Gupta,9.0,8,8
+2K21/SE/125,Navneet kumar bind,8.0,8,8
+2K21/SE/131,PALAK KUMARI,8.0,8,8
+2K21/SE/133,Paras Gupta,8.0,8,8
+2K21/SE/134,Parv Malhotra,9.0,8,8
+2K21/SE/138,Prateek Kumar Tiwari,9.0,8,8
+2K21/SE/143,Preet Kumar,7.0,8,8
+2K21/SE/144,Prerna,9.0,8,8
+2K21/SE/148,Ranjana Beshra,9.0,8,8
+2K21/SE/151,Rohit Kumar,6.0,8,8
+2K21/SE/160,Sarthak Goyal,6.0,8,8
+2K21/SE/187,Utsav Joshi,9.0,8,8
+2K21/SE/197,Yeshi Dorji,7.0,8,8
+2K21/SE/34,,0.0,0,8
+2K21/SE/48,Ayush Kumar,7.0,8,8
+2K21/SE/55,Chaitanya raj,7.0,8,8
+2K21/SE/69,Eshvas Jain,7.0,8,8
+2K21/SE/196,Yashvardhan Singh,7.0,16,8
+2K21/SE/78,Harsh,7.29,28,8
+2K21/SE/06,Abhinav Ashutosh,8.86,28,8
+2K21/SE/08,ADITYA GOYAL,8.5,16,8
+2K21/SE/11,Aditya L. Krishna,7.75,16,8
+2K21/SE/146,Rahul Kumar,8.25,16,8
+2K21/SE/150,Rithvik Kumar,7.5,16,8
+2K21/SE/158,Samar Pratap Singh,6.5,16,8
+2K21/SE/16,Akash,7.5,16,8
+2K21/SE/176,Sudhir kumar,7.75,16,8
+2K21/SE/20,Akshit Kadyan,8.5,16,8
+2K21/SE/121,Mukul Dass,7.57,28,8
+2K21/SE/32,Anmol Geetesh,9.0,16,8
+2K21/SE/49,Ayush Martolia,6.4,20,8
+2K21/SE/86,Hetti Mewan,8.4,20,8
+2K21/SE/111,Martin Leo King,0.0,0,8
+2K21/SE/39,ARYAN KAPUR,7.0,12,8
+2K21/SE/98,Kaushlendra Pratap,6.67,12,8
+2K21/SE/103,Krispy Tyagi,8.0,12,8
+2K21/SE/154,Saksham Dhawan,9.0,16,8
+2K21/SE/173,Sourabh kumar,8.0,16,8
+2K21/SE/152,ROHIT KUMAR,6.2,20,8
+2K21/SE/46,Ayush Chaudhary,8.0,16,8
+2K21/SE/179,Tanishka,8.8,20,8
+2K21/SE/97,Katyayani Sharma,7.5,24,8
+2K21/SE/87,HIMANSHU,8.25,16,8
+2K21/SE/135,Peehu Singh,8.5,16,8
+2K21/SE/181,Tasmiya,8.33,24,8
+2K21/SE/174,Sparsh Bhatia,6.8,20,8
+2K21/SE/124,NAMAN SINGH,9.25,16,8
+2K21/SE/183,Tushar Kumar,7.5,16,8
+2K21/SE/130,OLIVER EKKA,8.2,20,8
+2K21/SE/09,Aditya Garg,6.67,24,8
+2K21/SE/156,Saksham Sengar,8.25,16,8
+2K21/SE/59,Devashish Mehta,7.67,12,8
+2K21/SE/118,Mohit Khandelwal,6.0,24,8
+2K21/SE/112,Michael Mulugeta,7.6,20,8
+2K18/SE/062,,5.25,12,8
