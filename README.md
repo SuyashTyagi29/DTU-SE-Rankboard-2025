@@ -26,7 +26,7 @@ Data is current up to the last marksheets published on DTU’s portal as of 26 J
 
 + Ranks are purely based on available PDF data and any missing entries will obviously affect final standings. (Certain student's sgpa data might not be correct as well , as there were changes in their grade points after result re-evaluations which were not taken into account for in this system) 
 
-+ This app has been built entirely for fun and curiosity — not an official ranking system by any means. Contact DTU Admin/ SE HOD for the official data. \
++ This app has been built entirely for fun and curiosity — not an official ranking system by any means. Contact DTU Admin/ SE HOD for the official data.
 
 Rest assured , this app can easily be scaled for other branches as well, which will allow us to derive further insights like overall university rankings, university leadarbords and average performance of other branches. 
 
